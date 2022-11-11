@@ -1,0 +1,23 @@
+body{
+    background-color: antiquewhite;
+}
+div {
+    background-color: white;
+    width: 300px;
+    height: 200px;
+    margin-top: 200px;
+    margin-left: 500px;
+    border-top: 4px solid red;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    border-radius: 10px;
+}
+.txt {
+    padding-left: 20px;
+}
+p{
+    color: grey;
+}
+img {
+    width: 100px;
+    margin-left: 160px;
+}
